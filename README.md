@@ -10,8 +10,7 @@ Explore the published career intelligence platform at
 | Metric | Coverage |
 |---|---:|
 | Countries | 46 |
-| English guides | 21,049 |
-| Simplified Chinese guides | 21,049 |
+| Guides | 21,049 |
 | Unique occupation slugs | 4,581 |
 | Languages | English, Simplified Chinese |
 
@@ -31,8 +30,8 @@ Depending on country and occupation, guides may include:
 
 ## Browse the Content
 
-- [English career guides](content/en/)
-- [简体中文职业指南](content/zh-CN/)
+- [English career guides](contents/)
+- [简体中文职业指南](contents-zh/)
 
 Content is organized by ISO 3166-1 alpha-2 country code:
 
